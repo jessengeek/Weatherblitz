@@ -18,7 +18,7 @@ A simple, fast weather app. Search for any city and instantly see the current we
 - HTML5
 - CSS3
 - JavaScript (Fetch API)
-- Weather API (e.g. OpenWeatherMap) <!-- replace with the API you used -->
+- Weather API (OpenWeatherMap)
 - Deployed on Vercel
 
 ## Run Locally
@@ -52,5 +52,5 @@ Weatherblitz/
 
 ## Author
 
-**Jesse**
+**Jessen.T**
 GitHub: [@jessengeek](https://github.com/jessengeek) · LinkedIn: [jessen-t](https://www.linkedin.com/in/jessen-t)
